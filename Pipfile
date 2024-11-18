@@ -5,6 +5,9 @@ name = "pip_conf_index_global"
 
 [packages]
 jupyter = "*"
+pandas = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
